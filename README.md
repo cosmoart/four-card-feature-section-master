@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- #### [Solution](https://your-solution-url.com)
+- #### [Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-cY5quVehx)
 - #### [Live Site](https://cosmoart.github.io/four-card-feature-section-master/)
 
 ## My process
