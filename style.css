@@ -183,6 +183,7 @@ main > article h3 {
         justify-self: flex-start;
     }
 }
+
 @media screen and (min-width: 880px) {
     main {
         grid-template-columns: 1fr auto 1fr;
@@ -201,6 +202,7 @@ main > article h3 {
         justify-self: flex-start;
     }
 }
+
 @media screen and (min-width: 1400px) {
     body{
         transform: scale(1.2) translate(0, 73px);
