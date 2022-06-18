@@ -201,3 +201,8 @@ main > article h3 {
         justify-self: flex-start;
     }
 }
+@media screen and (min-width: 1400px) {
+    body{
+        transform: scale(1.2) translate(0, 73px);
+    }
+}
