@@ -53,7 +53,7 @@ Users should be able to:
             </td>
             <td>
                 <img src="./images/mobile-solution.png"
-                    alt="Mobile solution" title="Mobile solution" width="100%" />
+                    alt="Mobile solution" title="Mobile solution" width="512px" height="550px"/>
             </td>
         </tr>
 </table>
