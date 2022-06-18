@@ -185,7 +185,14 @@ main > article h3 {
 }
 
 @media screen and (min-width: 880px) {
-
+    @media screen and (min-width: 880px) {
+    main {
+        grid-template-columns: 1fr auto 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas:
+            "supervisor builder calculator"
+            "supervisor karma calculator";
+    }
     main > article {
         height: auto;
     }
